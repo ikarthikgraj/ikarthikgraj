@@ -1,7 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=ikarthikgraj&icon=0&color=12)](https://visitcount.itsvg.in)
 # Hi 👋 I'm Karthik G Raj
 Currently learning Web development🌐<br>
 
-[![](https://visitcount.itsvg.in/api?id=ikarthikgraj&icon=0&color=12)](https://visitcount.itsvg.in)
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikgraj) 
 
